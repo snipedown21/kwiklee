@@ -35,7 +35,7 @@
     "react-router-dom": "^4.0.0",
     "redux": "^3.6.0",
     "redux-thunk": "^2.2.0",
-    "shelljs": "^0.8.3",
+    "shelljs": "^0.8.5",
     "wait-on": "^3.3.0",
     "webpack": "^2.3.2",
     "webpack-dev-server": "^2.4.2"
